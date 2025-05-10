@@ -1,1 +1,1 @@
-s1.getMarks()
+car1.type
