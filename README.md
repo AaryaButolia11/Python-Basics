@@ -25,9 +25,9 @@ Each Python file contains code snippets and examples with inline comments to hel
 Clone the repo
 
 <pre>
-'''bash
+
 git clone https://github.com/your-username/oops-python.git
-'''
+
   </pre>
 Navigate to the folder
 
