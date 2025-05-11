@@ -22,26 +22,22 @@ Using super() in subclasses
 Each Python file contains code snippets and examples with inline comments to help understand each concept step by step.
 
 ### 🔧 How to Run
-Clone the repo
 
+1. Clone the repo
 <pre>
-
 git clone https://github.com/your-username/oops-python.git
+</pre>
 
-  </pre>
-Navigate to the folder
-
-bash
-Copy
-Edit
+2. Navigate to the folder
+<pre>
 cd oops-python
-Run the Python files
+</pre>
 
-nginx
-Copy
-Edit
+3. Run the Python file
+<pre>
 python filename.py
-📚 Ideal For
+</pre>
+### 📚 Ideal For
 Beginners learning OOP in Python
 
 Quick reference for interviews or revision
